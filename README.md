@@ -9,7 +9,7 @@
 
 - ⚡ Fato interessante **Eu era jogador profissional de CS**
 
-- Me conheça um pouco mais atraves do meu [portfólio](https://docs.google.com/presentation/d/1FYReX-LuZWspIEjQl-u592NngTmPnjA4wKF2b_h7OL4/edit?usp=sharing).
+- Me conheça um pouco mais através do meu [portfólio](https://docs.google.com/presentation/d/1FYReX-LuZWspIEjQl-u592NngTmPnjA4wKF2b_h7OL4/edit?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

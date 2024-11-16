@@ -9,6 +9,8 @@
 
 - ⚡ Fato interessante **Eu era jogador profissional de CS**
 
+- Me conheça um pouco mais atraves do meu [portfólio](https://docs.google.com/presentation/d/1FYReX-LuZWspIEjQl-u592NngTmPnjA4wKF2b_h7OL4/edit?usp=sharing).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enzo-nardelli-16b918305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo-nardelli-16b918305" height="30" width="40" /></a>

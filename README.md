@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Enzo Nardelli</h1>
 <h3 align="center">Desenvolvedor em formação</h3>
 
-- 🌱 Atualmente aprendendo **C e Python**
+-  Atualmente aprendendo **C# **
 
-- 👨‍💻 Tenho um canal de designer gráfico no youtube [Canal Youtube](https://www.youtube.com/@Hadesdr)
+-  Tenho um canal de designer gráfico no youtube [Canal Youtube](https://www.youtube.com/@Hadesdr)
+ 
+-  Entre em contato comigo através do email **mashlenardelli@gmail.com**
 
-- 📫 Você me acha através do email **mashlenardelli@gmail.com**
-
-- ⚡ Fato interessante **Eu era jogador profissional de CS**
+-  Fato interessante **Eu era jogador profissional de CS**
 
 - Me conheça um pouco mais através do meu [portfólio](https://docs.google.com/presentation/d/1FYReX-LuZWspIEjQl-u592NngTmPnjA4wKF2b_h7OL4/edit?usp=sharing).
 
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="90">  
 
 
 
